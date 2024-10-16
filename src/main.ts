@@ -10,8 +10,8 @@ interface HabiticaSyncSettings {
     dueDateFormat: string
 }
 const DEFAULT_SETTINGS: Partial<HabiticaSyncSettings> = {
-    userID: "",
-    apiToken: "",
+    userID: "c660c667-d685-4ae0-861b-6ee2b416ef2e",
+    apiToken: "ed2efc55-1f37-471c-a183-606bf7e0b4b9",
     showTaskDescription: true,
     showSubTasks: true,
     dueDateFormat: "DD-MM-YYYY"
